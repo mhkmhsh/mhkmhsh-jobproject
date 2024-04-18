@@ -1,7 +1,7 @@
 body{
 background-image: url('image/ferrari.jpg');
 background-repeat: no-repeat;
-
+overflow-x: hidden;
 }
 h1{
    font-family: "Jacquard 24", system-ui;
