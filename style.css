@@ -1,10 +1,9 @@
 body{
 background-image: url('image/ferrari.jpg');
-background-repeat: no-repeat;
-overflow-x:hidden;
+background-position:absolute;
 }
 h1{
- 
-   
+    font-family: "Jacquard 24", system-ui;
+   font-size: 300%;
 }
   
