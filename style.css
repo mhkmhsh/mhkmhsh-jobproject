@@ -2,11 +2,20 @@ body{
 background-color:#fff8d8;
 justify-content: center;
 overflow-x: hidden;
-
+margin:auto;
+text-align: center;
 }
 h1{
     font-family: "Jacquard 24", system-ui;
    font-size: 300%;
    color:#a52422;
 }
+  h5{
+    font-size:smaller;
+    color:#080f0f;
+  }
+ 
   
+  .card {
+    margin-bottom: 20px; /* Add margin to the bottom of each card */
+  }
