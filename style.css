@@ -1,9 +1,12 @@
 body{
-background-color:#a4bab7;
-background-position:absolute;
+background-color:#fff8d8;
+justify-content: center;
+overflow-x: hidden;
+
 }
 h1{
     font-family: "Jacquard 24", system-ui;
    font-size: 300%;
+   color:#a52422;
 }
   
