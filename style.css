@@ -2,7 +2,7 @@ body{
 background-color:#f8eae7;
 justify-content: center;
 overflow-x: hidden;
-
+overflow-y: hidden;
 text-align: center;
 }
 h1{
@@ -45,4 +45,7 @@ p{
 h3{
   font-family: 'Ferro Rosso', sans-serif;
   color:#f4dba0;
+}
+div#hold{
+  overflow-y: scroll;
 }
