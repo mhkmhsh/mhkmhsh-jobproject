@@ -1,0 +1,5 @@
+const title = document.getElementById('head')
+const text1 = document.getElementById('para1')
+const text2 = document.getElementById('para2')
+const image1 = document.getElementById('img1')
+const image2 = document.getElementById('img2')
