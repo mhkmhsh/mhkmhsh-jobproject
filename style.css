@@ -1,21 +1,43 @@
 body{
-background-color:#fff8d8;
+background-color:#f8eae7;
 justify-content: center;
 overflow-x: hidden;
-margin:auto;
+
 text-align: center;
 }
 h1{
-    font-family: "Jacquard 24", system-ui;
-   font-size: 300%;
-   color:#a52422;
+  font-family: 'Ferro Rosso', sans-serif;
+   font-size: 250%;
+   color:#f4dba0;
 }
   h5{
-    font-size:smaller;
-    color:#080f0f;
+    font-family: "Playfair Display", serif;
+    color:#8a071a;
   }
  
   
   .card {
     margin-bottom: 20px; /* Add margin to the bottom of each card */
   }
+
+  @font-face {
+    font-family: 'Ferro Rosso';
+    src: url('path/to/ferro-rosso.ttf') format('truetype');
+}
+
+.bg-hero-image{
+  background-image: url('image/ferrari.jpg');
+background-position: center center ;
+background-size: cover;
+}
+
+#info{
+  background-color:#506665 ;
+}
+img{
+  size:100%;
+}
+p{
+  color:#f8eae7;
+  font-family: "Playfair Display", serif;
+}
