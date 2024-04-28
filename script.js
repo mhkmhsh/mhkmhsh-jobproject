@@ -8,24 +8,24 @@ const image2 = document.getElementById('img2')
 
 function general() {
     title.innerHTML=''
-    image1.src= ``
-    image2.src= ``
+    image1.src= `image/`
+    image2.src= `image/`
     text1.innerHTML=''
     text2.innerHTML=''
     text3.innerHTML=''
 }
 function journey() {
     title.innerHTML=''
-    image1.src= ``
-    image2.src= ``
+    image1.src= `image/`
+    image2.src= `image/`
     text1.innerHTML=''
     text2.innerHTML=''
     text3.innerHTML=''
 }
 function myself() {
     title.innerHTML=''
-    image1.src= ``
-    image2.src= ``
+    image1.src= `image/`
+    image2.src= `image/`
     text1.innerHTML=''
     text2.innerHTML=''
     text3.innerHTML=''
