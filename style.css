@@ -1,7 +1,7 @@
 body{
   background-image:url("image/wallpaper.jpg");
   justify-content: center;
-  
+  overflow-x: hidden;
   text-align: center;
   }
   h1{
@@ -29,6 +29,7 @@ body{
   background-position: center center ;
   background-size: cover;
   opacity: 90%;
+
   }
   
   #info{
@@ -55,3 +56,24 @@ body{
     background-color:#fde29e;
     opacity:90%;
   }
+
+#facts{
+  background-color: #677777;
+
+}
+
+li{
+  color:#f4dba0;
+  font-family: "Titillium Web", sans-serif; 
+}
+img{
+  border-radius: 10px;
+}
+
+#f1{
+  background-color: #ae001a;
+  opacity: 90%;
+}
+#top{
+  color:#ae001a;
+}
