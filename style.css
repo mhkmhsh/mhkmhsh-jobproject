@@ -1,51 +1,57 @@
 body{
-background-color:#f8eae7;
-justify-content: center;
-overflow-x: hidden;
-overflow-y: hidden;
-text-align: center;
-}
-h1{
-  font-family: 'Ferro Rosso', sans-serif;
-   font-size: 250%;
-   color:#f4dba0;
-}
-  h5{
-    font-family: "Croissant One", serif;
-    color:#8a071a;
-  }
- 
+  background-image:url("image/wallpaper.jpg");
+  justify-content: center;
   
-  .card {
-    margin-bottom: 20px; /* Add margin to the bottom of each card */
+  text-align: center;
   }
-
-  @font-face {
-    font-family: 'Ferro Rosso';
-    src: url('path/to/ferro-rosso.ttf') format('truetype');
-}
-
-.bg-hero-image{
-  background-image: url('image/ferrari.jpg');
-background-position: center center ;
-background-size: cover;
-}
-
-#info{
-  background-color:#506665 ;
-}
-img{
-  size:100%;
-}
-p{
-  color:#f4dba0;
-  font-family: "Croissant One", serif;
-}
-
-h3{
-  font-family: 'Ferro Rosso', sans-serif;
-  color:#f4dba0;
-}
-div#hold{
-  overflow-y: scroll;
-}
+  h1{
+    font-family: 'Ferro Rosso', sans-serif;
+     font-size: 250%;
+     color:#f4dba0;
+  }
+    h5{
+      font-family: "Croissant One", serif;
+      color:#8a071a;
+    }
+   
+    
+    .card {
+      margin-bottom: 20px; /* Add margin to the bottom of each card */
+    }
+  
+    @font-face {
+      font-family: 'Ferro Rosso';
+      src: url('path/to/ferro-rosso.ttf') format('truetype');
+  }
+  
+  .bg-hero-image{
+    background-image: url('image/ferrari.jpg');
+  background-position: center center ;
+  background-size: cover;
+  opacity: 90%;
+  }
+  
+  #info{
+    background-color:#000000 ;
+  }
+  img{
+    size:100%;
+  }
+  p{
+    color:#053a4f;
+    font-family: "Titillium Web", sans-serif;
+    
+  }
+  
+  h3{
+    font-family: 'Ferro Rosso', sans-serif;
+    color:#f4dba0;
+  }
+  div#hold{
+    overflow-y: scroll;
+  }
+  
+  #first{
+    background-color:#fde29e;
+    opacity:90%;
+  }
